@@ -58,6 +58,7 @@ body * {
 
 #profile img {
   width: 112px;
+  border-radius: 50%;
 }
 
 #profile p {
@@ -175,7 +176,7 @@ footer {
 
 /* media queries */
 
-@media (min-width: 700px) {
+@media (min-width: 1090px) {
   :root {
     --bg-url: url(./assets/bg-desktop.jpg);
   }

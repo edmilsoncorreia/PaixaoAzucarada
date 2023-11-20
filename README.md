@@ -1,6 +1,6 @@
 <h1 align="center"> Paixão Azucarada </h1>
 
-<p align="center"> O doce sabor do Amor <span style="color: red;">♥</span></p>
+<p align="center"> Sabores que transformam momentos <span style="color: red;">♥</span></p>
 
 
 <p align="center">
