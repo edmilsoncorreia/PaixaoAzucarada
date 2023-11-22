@@ -67,8 +67,6 @@ body * {
   margin-top: 8px;
 }
 
-
-
 /* switch */
 #switch {
   position: relative;
@@ -106,7 +104,7 @@ body * {
   background: var(--surface-color);
   border: 1px solid var(--stroke-color);
   backdrop-filter: blur(4px);
-  -webkit-backdrop-filter: blur(4px) ;
+  -webkit-backdrop-filter: blur(4px);
   border-radius: 9999px;
 }
 
@@ -152,6 +150,12 @@ footer {
   font-size: 14px;
 }
 
+/* Botões */
+.button1:hover {
+  background: url(./assets/bg-b11.jpg);
+  background-size: cover;
+}
+
 /* media queries */
 
 @media (min-width: 1090px) {
@@ -167,15 +171,17 @@ footer {
 @keyframes slide-in {
   from {
     left: 0;
-  } to {
+  }
+  to {
     left: 50%;
   }
 }
 
 @keyframes slide-back {
-   from {
-     left: 50%;
-   } to {
-     left: 0;
-   }
+  from {
+    left: 50%;
+  }
+  to {
+    left: 0;
+  }
 }
