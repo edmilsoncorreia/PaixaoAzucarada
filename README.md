@@ -21,11 +21,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - JavaScript
 - Git e Github
-- Figma
 
 ## 💻 Projeto
 
-Agregador de Links de Confeitaria
+Agregador de Links de Confeitaria 
+<br> <br>
+Este site foi feito como um projeto Desafio do curso Discovery da RocketSeat
 
 
 Baseado no Projeto Discovery da <a href="https://www.rocketseat.com.br/">rocketseat</a>
